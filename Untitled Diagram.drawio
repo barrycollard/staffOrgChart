@@ -1,22 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T16:28:56.742Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.77" etag="0TpZuFisY2wzePrB49be" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T16:42:46.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.77" etag="ViUC6x82OcBbR96Uio3t" version="21.3.7" type="github">
   <diagram name="Page-1" id="HcX3bfwF6lE1asdT7tTk">
-    <mxGraphModel dx="1221" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2035" dy="1252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="362GJsHBonHIGvl6nyRb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vD92ctXVasO_yc49qX7o-1" target="vD92ctXVasO_yc49qX7o-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="362GJsHBonHIGvl6nyRb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vD92ctXVasO_yc49qX7o-1" target="362GJsHBonHIGvl6nyRb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vD92ctXVasO_yc49qX7o-1" value="&lt;b&gt;Head of Health Improvement&lt;/b&gt;&lt;br&gt;Cathy Steer&lt;br&gt;1 WTE" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="500" y="40" width="200" height="80" as="geometry" />
+          <mxGeometry x="860" y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="362GJsHBonHIGvl6nyRb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vD92ctXVasO_yc49qX7o-2" target="362GJsHBonHIGvl6nyRb-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;Health Improvement Principal&lt;br&gt;&lt;/b&gt;Susan Birse&lt;br&gt;1 WTE" link="https://nhshighland.publichealth.scot.nhs.uk/staff/susan-birse/" id="vD92ctXVasO_yc49qX7o-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-            <mxGeometry x="400" y="160" width="200" height="80" as="geometry" />
+            <mxGeometry x="640" y="160" width="200" height="80" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;b&gt;Strategic Green Health Manager&lt;br&gt;&lt;/b&gt;Dan Jenkins&lt;br&gt;1 WTE (until July 2023)" link="https://nhshighland.publichealth.scot.nhs.uk/staff/dan-jenkins/" id="362GJsHBonHIGvl6nyRb-1">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-            <mxGeometry x="640" y="160" width="200" height="80" as="geometry" />
+            <mxGeometry x="1080" y="160" width="200" height="80" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="362GJsHBonHIGvl6nyRb-2" value="&lt;div&gt;&lt;b&gt;Healthy Working Lives Adviser&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Angela Coll, 0.5 WTE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Health Improvement Advisers&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Cass Watson, 1 WTE&amp;nbsp;&lt;/div&gt;&lt;div&gt;Vacant, 1.6 WTE&amp;nbsp;&lt;/div&gt;&lt;div&gt;Alanda Swatman, 0.8 WTE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Admin Assistant&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Hazel MacDonald, 0.8 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="362GJsHBonHIGvl6nyRb-6" value="&lt;div&gt;&lt;b&gt;Senior Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Claire Derwin&lt;/div&gt;&lt;div&gt;0.6 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="362GJsHBonHIGvl6nyRb-7" value="&lt;div&gt;&lt;b&gt;Senior Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Claire Derwin&lt;/div&gt;&lt;div&gt;0.6 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="362GJsHBonHIGvl6nyRb-8" value="&lt;div&gt;&lt;b&gt;Senior Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Claire Derwin&lt;/div&gt;&lt;div&gt;0.6 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="280" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="362GJsHBonHIGvl6nyRb-9" value="&lt;div&gt;&lt;b&gt;Senior Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Claire Derwin&lt;/div&gt;&lt;div&gt;0.6 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="280" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="362GJsHBonHIGvl6nyRb-10" value="&lt;div&gt;&lt;b&gt;Senior Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Claire Derwin&lt;/div&gt;&lt;div&gt;0.6 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="280" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="362GJsHBonHIGvl6nyRb-11" value="&lt;div&gt;&lt;b&gt;Senior Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Claire Derwin&lt;/div&gt;&lt;div&gt;0.6 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="280" width="200" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
