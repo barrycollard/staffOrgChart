@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T15:33:10.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.77" etag="8VzTIjF794pCKa2j0f-6" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T13:13:36.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.77" etag="etdrIZNkC3dgBqZAgbB3" version="21.5.2" type="github">
   <diagram name="Page-1" id="HcX3bfwF6lE1asdT7tTk">
-    <mxGraphModel dx="1508" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="vD92ctXVasO_yc49qX7o-1" value="&lt;b&gt;Head of Health Improvement&lt;/b&gt;&lt;br&gt;Cathy Steer&lt;br&gt;1 WTE" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="860" y="40" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="l93xOszXTU8JTiS8Aog6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.428;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vD92ctXVasO_yc49qX7o-2" target="362GJsHBonHIGvl6nyRb-2">
+        <mxCell id="l93xOszXTU8JTiS8Aog6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.428;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vD92ctXVasO_yc49qX7o-2" target="362GJsHBonHIGvl6nyRb-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;b&gt;Health Improvement Principal&lt;br&gt;&lt;/b&gt;Susan Birse&lt;br&gt;1 WTE" id="vD92ctXVasO_yc49qX7o-2">
@@ -36,7 +36,7 @@
         <mxCell id="gycXvk_gMWdpRGh6Wd55-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="362GJsHBonHIGvl6nyRb-7" target="vD92ctXVasO_yc49qX7o-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l93xOszXTU8JTiS8Aog6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="362GJsHBonHIGvl6nyRb-7" target="l93xOszXTU8JTiS8Aog6-8">
+        <mxCell id="l93xOszXTU8JTiS8Aog6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="362GJsHBonHIGvl6nyRb-7" target="l93xOszXTU8JTiS8Aog6-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="362GJsHBonHIGvl6nyRb-7" value="&lt;div&gt;&lt;b&gt;Senior Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Sandra MacAllister&lt;/div&gt;&lt;div&gt;1 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -54,7 +54,7 @@
         <mxCell id="gycXvk_gMWdpRGh6Wd55-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="362GJsHBonHIGvl6nyRb-9" target="vD92ctXVasO_yc49qX7o-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l93xOszXTU8JTiS8Aog6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="362GJsHBonHIGvl6nyRb-9" target="gycXvk_gMWdpRGh6Wd55-14">
+        <mxCell id="l93xOszXTU8JTiS8Aog6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="362GJsHBonHIGvl6nyRb-9" target="gycXvk_gMWdpRGh6Wd55-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="843" y="696" />
@@ -62,7 +62,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l93xOszXTU8JTiS8Aog6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="l93xOszXTU8JTiS8Aog6-2">
+        <mxCell id="l93xOszXTU8JTiS8Aog6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="l93xOszXTU8JTiS8Aog6-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="843" y="426" as="sourcePoint" />
             <mxPoint x="1070" y="666" as="targetPoint" />
@@ -72,7 +72,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l93xOszXTU8JTiS8Aog6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="362GJsHBonHIGvl6nyRb-9" target="l93xOszXTU8JTiS8Aog6-1">
+        <mxCell id="l93xOszXTU8JTiS8Aog6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="362GJsHBonHIGvl6nyRb-9" target="l93xOszXTU8JTiS8Aog6-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="843" y="616" />
@@ -116,8 +116,8 @@
         <mxCell id="gycXvk_gMWdpRGh6Wd55-14" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Jane Chandler - 1 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="510" y="760" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gycXvk_gMWdpRGh6Wd55-18" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/barry-collard/&quot;&gt;Barry Collard&lt;/a&gt; - 1 WTE&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Breastfeeding Co-ordinator&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Arlene Rollo - 0.6 WTE&lt;/div&gt;&lt;div&gt;&lt;div&gt;Kareen Laird - 0.8WTE&lt;/div&gt;&lt;div&gt;Shelly Munro - 0.2 WTE&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;HIRS Assistants&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Nikki MacIntosh - 1 WTE&lt;/div&gt;&lt;div&gt;Jodie Meggison - 0.6 WTE&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Infant Feeding&lt;br&gt;Support Workers&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;i&gt;North Highland&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Lana Black - 0.8 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Victoria Cantwell - 0.4 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Terri Christison - 0.4 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Daoine Foley - 0.6 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Kim Grieve - 0.43 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Camilla McIntosh - 0.6 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Elise Riddell - 0.4 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;i&gt;Argyll and Bute&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Claire Young - 0.2 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Debbie Alderson - 0.4 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Seonaid Russell - 0.3 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Hannah Storrie - 0.2 WTE&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1223" y="560" width="200" height="440" as="geometry" />
+        <mxCell id="gycXvk_gMWdpRGh6Wd55-18" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/barry-collard/&quot;&gt;Barry Collard&lt;/a&gt; - 1 WTE&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Breastfeeding Co-ordinator&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Arlene Rollo - 0.6 WTE&lt;/div&gt;&lt;div&gt;&lt;div&gt;Kareen Laird - 0.8WTE&lt;/div&gt;&lt;div&gt;Shelly Munro - 0.2 WTE&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Health Improvement &lt;br&gt;Resource Co-ordinators&lt;/b&gt;&lt;br&gt;&lt;div&gt;Nikki MacIntosh - 1 WTE&lt;/div&gt;&lt;div&gt;Jodie Meggison - 0.6 WTE&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Infant Feeding&lt;br&gt;Support Workers&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;i&gt;North Highland&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Lana Black - 0.8 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Victoria Cantwell - 0.4 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Terri Christison - 0.4 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Daoine Foley - 0.6 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Kim Grieve - 0.43 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Camilla McIntosh - 0.6 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Elise Riddell - 0.4 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;i&gt;Argyll and Bute&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Claire&amp;nbsp;McNeill&amp;nbsp;- 0.2 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Debbie Alderson - 0.4 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Seonaid Russell - 0.3 WTE&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Hannah Storrie - 0.2 WTE&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1223" y="560" width="200" height="480" as="geometry" />
         </mxCell>
         <mxCell id="gycXvk_gMWdpRGh6Wd55-20" value="&lt;div&gt;&lt;b&gt;Screening Engagement&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Louise Benson - 1 WTE&lt;br&gt;(until March 2024)&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Health Improvement Adviser&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Dawn Sharman - 1 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="510" y="880" width="200" height="120" as="geometry" />
@@ -140,35 +140,35 @@
         <mxCell id="gycXvk_gMWdpRGh6Wd55-23" value="&lt;div&gt;&lt;b&gt;VAW Training &amp;amp; Development Manager&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Catherine Russell&lt;/div&gt;&lt;div&gt;0.8 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1703" y="400" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="l93xOszXTU8JTiS8Aog6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gycXvk_gMWdpRGh6Wd55-27" target="l93xOszXTU8JTiS8Aog6-12">
+        <mxCell id="l93xOszXTU8JTiS8Aog6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gycXvk_gMWdpRGh6Wd55-27" target="l93xOszXTU8JTiS8Aog6-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gycXvk_gMWdpRGh6Wd55-27" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialists&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Ailsa Villegas -&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;1 WTE&lt;/span&gt;&lt;/div&gt;Kate Thomson&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;- 0.8 WTE&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1463" y="560" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gycXvk_gMWdpRGh6Wd55-29" value="&lt;div&gt;&lt;b&gt;VAW Training Officer&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Myra Ross - 0.4 WTE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;MARAC Co-ordinator&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Karen Peteranna - 1 WTE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Admin Assistant&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Elaine Lyall - 0.6 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1703" y="560" width="200" height="200" as="geometry" />
+          <mxGeometry x="1703" y="560" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="gycXvk_gMWdpRGh6Wd55-31" value="&lt;div&gt;&lt;b&gt;Health Improvement Adviser&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Martin Walker - 0.8 WTE and&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Health Improvement Specialist - 0.2 WTE&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="gycXvk_gMWdpRGh6Wd55-31" value="&lt;div&gt;&lt;b&gt;Health Improvement Adviser&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Martin Walker - 0.8 WTE &lt;br&gt;and&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Health Improvement &lt;br&gt;Specialist - 0.2 WTE&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="743" y="880" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5PrLI-bdZE74SPTcNNlp-2" value="&lt;div&gt;&lt;b&gt;Health Improvement Adviser&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(fixed term until June 24)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Megan MacKenzie - 0.6 WTE&lt;/div&gt;&lt;div&gt;Jayne Shewan - 0.4 WTE&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="160" y="776" width="200" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="l93xOszXTU8JTiS8Aog6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l93xOszXTU8JTiS8Aog6-1" target="gycXvk_gMWdpRGh6Wd55-31">
+        <mxCell id="l93xOszXTU8JTiS8Aog6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="l93xOszXTU8JTiS8Aog6-1" target="gycXvk_gMWdpRGh6Wd55-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l93xOszXTU8JTiS8Aog6-1" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Maggie Hume - 0.8 WTE&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="l93xOszXTU8JTiS8Aog6-1" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Maggie Hume - 0.8 WTE&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="743" y="760" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="l93xOszXTU8JTiS8Aog6-2" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Gavin Smith - 0.6 WTE&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Policy Development Manager&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Margaret Brown - 1WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="l93xOszXTU8JTiS8Aog6-2" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Gavin Smith - 0.6 WTE&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Policy Development Manager&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Margaret Brown - 1WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="970" y="760" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="l93xOszXTU8JTiS8Aog6-8" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Eilidh Moir - 1 WTE&lt;/div&gt;&lt;div&gt;Sarah MacKenzie - 0.91 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="l93xOszXTU8JTiS8Aog6-8" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Eilidh Moir - 1 WTE&lt;/div&gt;&lt;div&gt;Sarah MacKenzie - 0.91 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="370" y="656" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="l93xOszXTU8JTiS8Aog6-12" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Senior Health Development Officer Green Health&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Vacant - 0.6 WTE&lt;br&gt;(FT - 1 year)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1463" y="680" width="200" height="120" as="geometry" />
+        <mxCell id="l93xOszXTU8JTiS8Aog6-12" value="&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Senior Health Development Officer Green Health&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Vacant - 0.6 WTE&lt;br&gt;(FT - 1 year)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1463" y="680" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
