@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T13:27:30.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="_bANYyWxgD50_inl7Bz6" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T13:48:06.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="hSBccW56Fc1Xb0_OyO4l" version="22.0.4" type="github">
   <diagram name="Page-1" id="HcX3bfwF6lE1asdT7tTk">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1433" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,8 +30,8 @@
             <mxGeometry x="860" y="160" width="200" height="80" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="362GJsHBonHIGvl6nyRb-2" value="&lt;div&gt;&lt;b&gt;Healthy Working Lives Adviser&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Angela Coll - 0.5 WTE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Health Improvement Advisers&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Cass Watson - 1 WTE&amp;nbsp;&lt;/div&gt;&lt;div&gt;Gillian Hornby - 0.4 WTE&amp;nbsp;&lt;/div&gt;&lt;div&gt;Margy MacDonald - 0.4 WTE&lt;/div&gt;&lt;div&gt;Sarah Hobbs - 1 WTE&lt;/div&gt;&lt;div&gt;Jenny Cargill - 0.2 WTE&lt;/div&gt;&lt;div&gt;Alanda Swatman (Prison) - 0.8 WTE&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Admin Assistant&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Hazel MacDonald - 0.8 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="80" y="30" width="217" height="210" as="geometry" />
+        <mxCell id="362GJsHBonHIGvl6nyRb-2" value="&lt;div&gt;&lt;b&gt;Healthy Working Lives Adviser&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Angela Coll - 0.5 WTE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Health Improvement Advisers&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Cass Watson - 1 WTE&amp;nbsp;&lt;/div&gt;&lt;div&gt;Gillian Hornby - 0.4 WTE&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Jenny Cargill - 0.2 WTE&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Alanda Swatman (Prison) - 0.8 WTE&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Admin Assistant&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Hazel MacDonald - 0.8 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="100" y="30" width="217" height="210" as="geometry" />
         </mxCell>
         <mxCell id="gycXvk_gMWdpRGh6Wd55-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="362GJsHBonHIGvl6nyRb-6" target="vD92ctXVasO_yc49qX7o-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -42,14 +42,37 @@
         <mxCell id="362GJsHBonHIGvl6nyRb-6" value="&lt;div&gt;&lt;b&gt;Senior Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/claire-derwin/&quot;&gt;Claire Derwin&lt;/a&gt;&lt;/div&gt;&lt;div&gt;0.6 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="23" y="400" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gycXvk_gMWdpRGh6Wd55-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="362GJsHBonHIGvl6nyRb-7" target="gycXvk_gMWdpRGh6Wd55-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gycXvk_gMWdpRGh6Wd55-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="gycXvk_gMWdpRGh6Wd55-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="400" as="sourcePoint" />
+            <mxPoint x="126" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="401" />
+              <mxPoint x="360" y="401" />
+              <mxPoint x="360" y="620" />
+              <mxPoint x="123" y="620" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gycXvk_gMWdpRGh6Wd55-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="362GJsHBonHIGvl6nyRb-7" target="vD92ctXVasO_yc49qX7o-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l93xOszXTU8JTiS8Aog6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="362GJsHBonHIGvl6nyRb-7" target="l93xOszXTU8JTiS8Aog6-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="520" />
+              <mxPoint x="417" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5NIrkgR4hm5I-wIUvoph-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="362GJsHBonHIGvl6nyRb-7" target="5NIrkgR4hm5I-wIUvoph-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="480" />
+              <mxPoint x="360" y="620" />
+              <mxPoint x="290" y="620" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="362GJsHBonHIGvl6nyRb-7" value="&lt;div&gt;&lt;b&gt;Senior Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/sandra-macallister/&quot;&gt;Sandra MacAllister&lt;/a&gt;&lt;/div&gt;&lt;div&gt;1 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="263" y="400" width="200" height="80" as="geometry" />
@@ -117,7 +140,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gycXvk_gMWdpRGh6Wd55-10" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/fiona-macleod/&quot;&gt;Fiona MacLeod&lt;/a&gt; - 1 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="160" y="656" width="200" height="80" as="geometry" />
+          <mxGeometry x="23" y="640" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gycXvk_gMWdpRGh6Wd55-12" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Katy Allanson - 1 WTE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Specialist Midwives&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/lorna-mackenzie/&quot;&gt;Lorna MacKenzie&lt;/a&gt; - 0.6 WTE&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/cat-clark/&quot;&gt;Cat Clark&lt;/a&gt; - 0.9 WTE&lt;/div&gt;&lt;div&gt;Hazel Inglis - 0.6 WTE&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="503" y="520" width="200" height="120" as="geometry" />
@@ -137,8 +160,16 @@
         <mxCell id="gycXvk_gMWdpRGh6Wd55-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="gycXvk_gMWdpRGh6Wd55-22" target="vD92ctXVasO_yc49qX7o-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gycXvk_gMWdpRGh6Wd55-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gycXvk_gMWdpRGh6Wd55-22" target="gycXvk_gMWdpRGh6Wd55-27" edge="1">
+        <mxCell id="5NIrkgR4hm5I-wIUvoph-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gycXvk_gMWdpRGh6Wd55-22" target="5NIrkgR4hm5I-wIUvoph-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5NIrkgR4hm5I-wIUvoph-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gycXvk_gMWdpRGh6Wd55-22" target="gycXvk_gMWdpRGh6Wd55-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1563" y="700" />
+              <mxPoint x="1782" y="700" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gycXvk_gMWdpRGh6Wd55-22" value="&lt;div&gt;&lt;b&gt;Senior Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/dan-jenkins/&quot;&gt;Dan Jenkins&lt;/a&gt;&lt;/div&gt;&lt;div&gt;1 WTE&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1463" y="400" width="200" height="80" as="geometry" />
@@ -152,35 +183,53 @@
         <mxCell id="gycXvk_gMWdpRGh6Wd55-23" value="&lt;div&gt;&lt;b&gt;VAW Training &amp;amp; Development Manager&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Catherine Russell&lt;/div&gt;&lt;div&gt;0.8 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1703" y="400" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gycXvk_gMWdpRGh6Wd55-27" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialists&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/ailsa-villegas/&quot;&gt;Ailsa Villegas&lt;/a&gt; -&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;1 WTE&lt;/span&gt;&lt;/div&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/kate-thomson/&quot;&gt;Kate Thomson&lt;/a&gt;&amp;nbsp;- 0.8 WTE&lt;br&gt;&lt;br&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Senior Health Development Officer Green Health&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Vacant - 0.6 WTE&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(FT - 1 year)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1463" y="560" width="200" height="160" as="geometry" />
+        <mxCell id="gycXvk_gMWdpRGh6Wd55-27" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialists&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/kate-thomson/&quot;&gt;Kate Thomson&lt;/a&gt;&amp;nbsp;- 0.8 WTE&lt;br&gt;&lt;br&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Senior Health Development Officer Green Health&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;Helen Perkins&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;- 0.6 WTE&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;(FT - 1 year)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1680" y="760" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="gycXvk_gMWdpRGh6Wd55-29" value="&lt;div&gt;&lt;b&gt;VAW Training Officer&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Myra Ross - 0.4 WTE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;MARAC Co-ordinator&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Karen Peteranna - 1 WTE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Admin Assistant&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Elaine Lyall - 0.6 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1703" y="560" width="200" height="160" as="geometry" />
+          <mxGeometry x="1703" y="520" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="gycXvk_gMWdpRGh6Wd55-31" value="&lt;div&gt;&lt;b&gt;Health Improvement Adviser&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/martin-walker/&quot;&gt;Martin Walker&lt;/a&gt; - 0.8 WTE &lt;br&gt;and&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Health Improvement &lt;br&gt;Specialist&lt;/b&gt; - 0.2 WTE&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="743" y="880" width="200" height="120" as="geometry" />
+        <mxCell id="gycXvk_gMWdpRGh6Wd55-31" value="&lt;div&gt;&lt;b&gt;Health Improvement Adviser&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Vacant - 0.8 WTE&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="743" y="880" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5PrLI-bdZE74SPTcNNlp-2" value="&lt;div&gt;&lt;b&gt;Health Improvement Adviser&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(fixed term until June 24)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/megan-mackenzie/&quot;&gt;Megan MacKenzie&lt;/a&gt; - 0.6 WTE&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/jayne-shewan/&quot;&gt;Jayne Shewan&lt;/a&gt; - 0.4 WTE&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="160" y="776" width="200" height="104" as="geometry" />
+          <mxGeometry x="23" y="760" width="200" height="104" as="geometry" />
         </mxCell>
         <mxCell id="l93xOszXTU8JTiS8Aog6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="l93xOszXTU8JTiS8Aog6-1" target="gycXvk_gMWdpRGh6Wd55-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l93xOszXTU8JTiS8Aog6-1" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Maggie Hume - 0.8 WTE&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="l93xOszXTU8JTiS8Aog6-1" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;a style=&quot;border-color: var(--border-color);&quot; href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/martin-walker/&quot;&gt;Martin Walker&lt;/a&gt;&amp;nbsp;- 1 WTE&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Secondment until July 2025&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="743" y="760" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l93xOszXTU8JTiS8Aog6-2" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Gavin Smith - 0.6 WTE&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Policy Development Manager&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/margaret-brown/&quot;&gt;Margaret Brown&lt;/a&gt; - 1WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="970" y="760" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="l93xOszXTU8JTiS8Aog6-8" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/eilidh-moir/&quot;&gt;Eilidh Moir&lt;/a&gt; - 1 WTE&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/sarah-mackenzie/&quot;&gt;Sarah MacKenzie&lt;/a&gt; - 0.91 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="370" y="656" width="200" height="80" as="geometry" />
+        <mxCell id="l93xOszXTU8JTiS8Aog6-8" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/eilidh-moir/&quot;&gt;Eilidh Moir&lt;/a&gt; - 1 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="317" y="660" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dUJbXZuZC-ZlEkuP6XWf-1" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;Public Health Practitioner&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Jean MacRae - 1 WTE&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;Health Improvement Advisers&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Carol Anne MacKenzie (Wester Ross, Skye &amp;amp; Lochalsh) - 0.6 WTE&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Claire Gunner (Lochaber) - 0.8 WTE&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/lesley-anne-bremner/&quot;&gt;Lesley Anne Bremner&lt;/a&gt; (Caithness) - 0.8 WTE&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/deborah-knight/&quot;&gt;Deb Knight (Sutherland)&lt;/a&gt; - 0.6 WTE&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;Admin&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Anastasia McFauld (Lochaber) - 0.2 WTE&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Shirley-Anne MacDonald (Caithness &amp;amp; Sutherland) - 0.4 WTE&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1160" y="80" width="400" height="200" as="geometry" />
         </mxCell>
         <mxCell id="dUJbXZuZC-ZlEkuP6XWf-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Head of Health and Wellbeing&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Highlife Highland (joint funded post)&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Lynn Bauermeister&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;1 WTE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1600" y="80" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5NIrkgR4hm5I-wIUvoph-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5NIrkgR4hm5I-wIUvoph-1" target="5NIrkgR4hm5I-wIUvoph-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5NIrkgR4hm5I-wIUvoph-1" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialists&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;a href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/ailsa-villegas/&quot;&gt;Ailsa Villegas&lt;/a&gt; -&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;1 WTE&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1464.5" y="760" width="197" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="5NIrkgR4hm5I-wIUvoph-2" value="&lt;div&gt;&lt;b&gt;Health Improvement Adviser&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Sarah Hobbs - 1 WTE&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1463" y="860" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5NIrkgR4hm5I-wIUvoph-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5NIrkgR4hm5I-wIUvoph-7" target="5NIrkgR4hm5I-wIUvoph-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5NIrkgR4hm5I-wIUvoph-7" value="&lt;div&gt;&lt;b&gt;Health Improvement Specialist&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;a style=&quot;background-color: initial;&quot; href=&quot;https://nhshighland.publichealth.scot.nhs.uk/staff/sarah-mackenzie/&quot;&gt;Sarah MacKenzie&lt;/a&gt;&lt;span style=&quot;background-color: initial;&quot;&gt; - 0.91 WTE&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="260" y="760" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5NIrkgR4hm5I-wIUvoph-9" value="&lt;div&gt;&lt;b&gt;Health Improvement Adviser&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Margy MacDonald - 0.4 WTE&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="260" y="880" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
